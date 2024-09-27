@@ -1,0 +1,20 @@
+[6.810s] Invoking command in '/home/robotics/ros2_ws/src/urdf_test': PYTHONPATH=/home/robotics/ros2_ws/build/urdf_test/prefix_override:/home/robotics/ros2_ws/install/urdf_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/urdf_test build --build-base /home/robotics/ros2_ws/build/urdf_test/build install --record /home/robotics/ros2_ws/build/urdf_test/install.log --single-version-externally-managed install_data
+[9.822s] running egg_info
+[9.824s] writing ../../build/urdf_test/urdf_test.egg-info/PKG-INFO
+[9.825s] writing dependency_links to ../../build/urdf_test/urdf_test.egg-info/dependency_links.txt
+[9.825s] writing entry points to ../../build/urdf_test/urdf_test.egg-info/entry_points.txt
+[9.826s] writing requirements to ../../build/urdf_test/urdf_test.egg-info/requires.txt
+[9.827s] writing top-level names to ../../build/urdf_test/urdf_test.egg-info/top_level.txt
+[9.972s] reading manifest file '../../build/urdf_test/urdf_test.egg-info/SOURCES.txt'
+[9.974s] writing manifest file '../../build/urdf_test/urdf_test.egg-info/SOURCES.txt'
+[9.975s] running build
+[9.976s] running build_py
+[9.976s] running install
+[9.987s] running install_lib
+[10.002s] running install_data
+[10.003s] running install_egg_info
+[10.019s] removing '/home/robotics/ros2_ws/install/urdf_test/lib/python3.8/site-packages/urdf_test-0.0.0-py3.8.egg-info' (and everything under it)
+[10.020s] Copying ../../build/urdf_test/urdf_test.egg-info to /home/robotics/ros2_ws/install/urdf_test/lib/python3.8/site-packages/urdf_test-0.0.0-py3.8.egg-info
+[10.025s] running install_scripts
+[10.139s] writing list of installed files to '/home/robotics/ros2_ws/build/urdf_test/install.log'
+[10.185s] Invoked command in '/home/robotics/ros2_ws/src/urdf_test' returned '0': PYTHONPATH=/home/robotics/ros2_ws/build/urdf_test/prefix_override:/home/robotics/ros2_ws/install/urdf_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/urdf_test build --build-base /home/robotics/ros2_ws/build/urdf_test/build install --record /home/robotics/ros2_ws/build/urdf_test/install.log --single-version-externally-managed install_data
