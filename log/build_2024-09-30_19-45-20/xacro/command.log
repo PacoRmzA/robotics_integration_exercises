@@ -1,2 +1,0 @@
-Invoking command in '/home/robotics/ros2_ws/build/xacro': /usr/bin/cmake /home/robotics/ros2_ws/src/xacro -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/robotics/ros2_ws/install/xacro
-Invoked command in '/home/robotics/ros2_ws/build/xacro' returned '1': /usr/bin/cmake /home/robotics/ros2_ws/src/xacro -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/robotics/ros2_ws/install/xacro
