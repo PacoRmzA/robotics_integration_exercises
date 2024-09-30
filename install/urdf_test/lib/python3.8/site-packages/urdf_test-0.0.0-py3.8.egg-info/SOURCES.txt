@@ -8,7 +8,6 @@ setup.py
 ../../build/urdf_test/urdf_test.egg-info/requires.txt
 ../../build/urdf_test/urdf_test.egg-info/top_level.txt
 ../../build/urdf_test/urdf_test.egg-info/zip-safe
-launch/description.launch.py
 launch/display.launch.py
 resource/urdf_test
 test/test_copyright.py

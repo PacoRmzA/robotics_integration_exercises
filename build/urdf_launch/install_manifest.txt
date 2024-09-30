@@ -1,0 +1,16 @@
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/config/urdf.rviz
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/launch/description.launch.py
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/launch/display.launch.py
+/home/robotics/ros2_ws/install/urdf_launch/share/ament_index/resource_index/package_run_dependencies/urdf_launch
+/home/robotics/ros2_ws/install/urdf_launch/share/ament_index/resource_index/parent_prefix_path/urdf_launch
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/environment/ament_prefix_path.dsv
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/environment/path.dsv
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/local_setup.bash
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/local_setup.sh
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/local_setup.zsh
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/local_setup.dsv
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/package.dsv
+/home/robotics/ros2_ws/install/urdf_launch/share/ament_index/resource_index/packages/urdf_launch
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/cmake/urdf_launchConfig.cmake
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/cmake/urdf_launchConfig-version.cmake
+/home/robotics/ros2_ws/install/urdf_launch/share/urdf_launch/package.xml

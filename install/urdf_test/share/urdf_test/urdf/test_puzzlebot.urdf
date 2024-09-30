@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<robot name="puzzlebot">
+  <link name="base_link">
+    <visual>
+      <origin rpy="0.0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <mesh filename="package://urdf_test/meshes/MCR2_1000_0_Puzzlebot.stl"/>
+      </geometry>
+    </visual>
+  </link>
+</robot>
